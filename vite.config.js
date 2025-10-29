@@ -27,7 +27,7 @@ export default defineConfig({
     hmr: {
       // This tells the client how to connect to the HMR websocket
       protocol: 'wss', // Use secure websocket
-      host: 'ce5474b2-dd67-4d46-b740-88bc32f32ac4-00-273aba9f08e81.sisko.replit.dev',
+      host: '71c30762-0397-4584-957d-f2a258442747-00-3m0tgo7v0biwl.sisko.replit.dev',
       clientPort: 443 // Use the standard HTTPS port
     }
   }
